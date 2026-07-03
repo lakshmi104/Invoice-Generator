@@ -1,4 +1,4 @@
-# 🧾 Invoice Generator System
+# 🧾 Invoice Generator 
 
 A simple web-based Invoice Generator built with **Python**, **Flask**, and **ReportLab**. Users can enter customer details, add multiple products, calculate GST automatically, and generate a professional PDF invoice.
 
